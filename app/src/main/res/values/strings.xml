@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hypto</string>
+    <string name="alert_close">Close</string>
+    <string name="error_no_internet">Please check your internet connection</string>
+
+    <string name="lbl_enter_email">Enter Email</string>
+    <string name="lbl_enter_answer">Enter your answer</string>
+
+</resources>
